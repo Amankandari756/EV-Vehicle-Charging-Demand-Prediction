@@ -25,8 +25,13 @@ This project was developed during the AICTE–Edunet Foundation–Shell Internsh
 
 • Joblib
 
-• Scikit-learn
+🙌 Acknowledgements
+Thanks to:
 
-Matplotlib
+AICTE
 
-Joblib
+Edunet Foundation
+
+Shell India
+
+For the opportunity to work on this impactful project.
