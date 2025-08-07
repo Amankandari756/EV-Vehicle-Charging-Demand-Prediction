@@ -13,6 +13,7 @@ This project was developed during the AICTE–Edunet Foundation–Shell Internsh
 • Clean and interactive Streamlit UI
 
 🛠️ Tech Stack
+
 • Python
 
 • Streamlit
