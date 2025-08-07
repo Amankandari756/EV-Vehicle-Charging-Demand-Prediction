@@ -1,7 +1,7 @@
-🔮 EV Adoption Forecaster – Washington State
+#🔮 EV Adoption Forecaster – Washington State
 This project was developed during the AICTE–Edunet Foundation–Shell Internship (Cycle 2, 2025) focused on Green Skills using AI Technologies. It is a Streamlit web app that forecasts Electric Vehicle (EV) adoption for counties in Washington State using machine learning.
 
-📌 Key Features
+##📌 Key Features
 • Forecast EV adoption for the next 3 years
 
 • County-wise EV trend visualization
@@ -12,7 +12,7 @@ This project was developed during the AICTE–Edunet Foundation–Shell Internsh
 
 • Clean and interactive Streamlit UI
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 • Python
 
@@ -26,7 +26,7 @@ This project was developed during the AICTE–Edunet Foundation–Shell Internsh
 
 • Joblib
 
-🙌 Acknowledgements
+##🙌 Acknowledgements
 Thanks to:
 
 AICTE
